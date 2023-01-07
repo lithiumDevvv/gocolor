@@ -10,7 +10,7 @@ This package includes:
 
 # Commands
 ```
-command -> go get github.com/lithDevv/gocolor/
+command -> go get github.com/lithDevvv/gocolor/
 ```
 
 # Usage
@@ -19,7 +19,7 @@ package main
 
 import (
   "fmt"
-  "github.com/lithDevv/gocolor"
+  "github.com/lithDevvv/gocolor"
 )
 
 func main() {
